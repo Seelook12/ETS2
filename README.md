@@ -1,5 +1,5 @@
-"# eurotruck_line" 
-"# eurotruck_line" 
+"# ETS2" 
+
 
 
 유로트럭2 해상도 (1280 ,700), 그림자 끄기, 화면의 왼쪽 상단 모서리에 밀착 
